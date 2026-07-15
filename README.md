@@ -1,2 +1,5 @@
 # XMRigStudio
-An open source monero mining application. OS agnostic
+# XMRigStudio
+# XMRigStudio
+# XMRigStudio
+# XMRigStudio

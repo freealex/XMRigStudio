@@ -1,0 +1,25 @@
+{
+    "application": {
+        "name": "XMRig Manager",
+        "version": "1.0.0"
+    },
+    "xmrig": {
+        "binary": "/opt/homebrew/bin/xmrig",
+        "config": "",
+        "auto_start": false
+    },
+    "api": {
+        "host": "127.0.0.1",
+        "port": 18088,
+        "token": "xmrig-local-api",
+        "version": null
+    },
+    "gui": {
+        "theme": "dark",
+        "refresh_interval": 5
+    },
+    "logging": {
+        "level": "INFO",
+        "save_logs": true
+    }
+}

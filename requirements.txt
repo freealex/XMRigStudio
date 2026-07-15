@@ -1,0 +1,7 @@
+PySide6>=6.8
+requests>=2.32
+psutil>=7.0
+pyqtgraph>=0.13
+watchdog>=6.0
+Pillow>=11.0
+PyYAML>=6.0
