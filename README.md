@@ -1,5 +1,2 @@
 # XMRigStudio
-# XMRigStudio
-# XMRigStudio
-# XMRigStudio
-# XMRigStudio
+# email: mitchconners576@gmail.com
